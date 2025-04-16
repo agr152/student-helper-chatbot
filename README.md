@@ -18,9 +18,10 @@ It enables users to ask questions and get context-aware responses based only on 
 
 
 Some of the Sample Screenshot of the UI below,
-![Screenshot (63)](https://github.com/user-attachments/assets/05f61b74-5a04-41ec-bd34-f673b98ae9bb)
+![Screenshot (63)](https://github.com/user-attachments/assets/77ade287-39db-4db2-b628-142b97161a66)
 
 This how the conversation with chatbot looks like,
-![Screenshot (64)](https://github.com/user-attachments/assets/672b2bcc-8b99-43a7-8116-9c098ffb0eb6)
+![Screenshot (64)](https://github.com/user-attachments/assets/f94572ca-f57c-4737-9ecd-e53cacecc490)
+
 
 
